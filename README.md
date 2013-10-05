@@ -1,1 +1,1 @@
-Android library used in several Purdue Water Apps project
+Test Android library used in several Purdue Water Apps project
